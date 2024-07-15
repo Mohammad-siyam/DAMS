@@ -1,0 +1,38 @@
+.container1 {
+
+    margin: 70px 100px 0px auto;
+    border: solid black 1px;
+    width: 1200px;
+    height: 700px;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 8px 10px rgba(0, 0, 0, 0.2);
+
+}
+
+.container2 {
+    margin: 70px 100px 0px auto;
+    border: solid black 1px;
+    width: 400px;
+    height: 400px;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 8px 10px rgba(0, 0, 0, 0.2);
+}
+.container3{
+    margin:  auto;
+    border: solid black 1px;
+    width: 400px;
+    height: 400px;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 8px 10px rgba(0, 0, 0, 0.2);
+}
+
+
+h1 {
+    text-align: center;
+}
